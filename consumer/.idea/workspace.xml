@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae2cf44e-b576-4627-a110-971e63e74647" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Kafka/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/.idea/Kafka.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/action.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/generator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/kafka_hook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/producer_wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kafka/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/consumer.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/action.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer_wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/from_kafka_to_sql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka_hook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-compose.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgadmin/pgadmin4.db" beforeDir="false" afterPath="$PROJECT_DIR$/../pgadmin/pgadmin4.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgadmin/sessions/dae23c4a-12ec-401d-bb4f-0ca2045fb9da" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgdata/base/1/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/../pgdata/base/1/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgdata/base/16384/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/../pgdata/base/16384/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgdata/base/5/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/../pgdata/base/5/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgdata/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/../pgdata/global/pg_control" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgdata/global/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/../pgdata/global/pg_internal.init" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgdata/pg_stat/pgstat.stat" beforeDir="false" afterPath="$PROJECT_DIR$/../pgdata/pg_stat/pgstat.stat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pgdata/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/../pgdata/pg_wal/000000010000000000000001" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MCbKzddyqGw8jOlt7ckZZ9vv31" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/ProgRes/Micro_sevice_kafka",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae2cf44e-b576-4627-a110-971e63e74647" name="Changes" comment="" />
+      <created>1677274452017</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677274452017</updated>
+      <workItem from="1677606742826" duration="116000" />
+      <workItem from="1677692682379" duration="101000" />
+      <workItem from="1677754648555" duration="1678000" />
+      <workItem from="1677935572865" duration="984000" />
+      <workItem from="1677936719822" duration="1754000" />
+      <workItem from="1678052653455" duration="1532000" />
+      <workItem from="1678120834675" duration="25000" />
+      <workItem from="1678121324127" duration="16000" />
+      <workItem from="1679305683814" duration="9825000" />
+      <workItem from="1679382416236" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="try_2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
